@@ -21,8 +21,7 @@ This project implements a **Movie Recommendation System** using collaborative fi
 5. [Installation](#installation)
 6. [Usage](#usage)
 7. [Results](#results)
-8. [Future Work](#future-work)
-9. [License](#license)
+
 
 ---
 
